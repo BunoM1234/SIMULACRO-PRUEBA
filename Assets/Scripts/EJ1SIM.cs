@@ -16,7 +16,6 @@ public class EJ1SIM : MonoBehaviour
         {
             Debug.Log("Los numeros son diferentes. ");
         }
-
     }
 
     // Update is called once per frame
